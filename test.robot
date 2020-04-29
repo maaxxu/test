@@ -20,16 +20,3 @@ Case_1
 Case_2
     Keyword2
 
-
-
-
-Order:
-
-Keyword
-Keyword
-Keyword
-Keyword
-Keyword
-Keyword
-Keyword
-Keyword
